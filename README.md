@@ -5,7 +5,7 @@ An app that aims to heal the user through ambient music and appeasing imagery.
 Heal allows the user a peaceful corner in their daily routine that allows them to placate themselves by relaxing to a handpicked playlist of ambient music and white noise while surfing through calm images. The absolute aim is to allow the user a period of mindfuness before they recover and re-enter their daily routinewith freshness.
 
 ---
-#Flutter based application
+## Flutter based application
 
 A few resources to get you started if this is your first Flutter project:
 
